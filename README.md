@@ -22,3 +22,4 @@ or 1920x1080 maximized
 - Tested on areas: Orgrimmar, near WC dungeon and Ratchet
 - Works pretty normal (80%)
 - Gif - https://imgur.com/a/IRftPyX
+![alt text](wow-fish-bot-area.png)
