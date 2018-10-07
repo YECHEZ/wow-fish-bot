@@ -70,6 +70,7 @@ while True:
                     if lastx != b_x and lasty != b_y:
                         is_block = False
                         if b_x < 1: b_x = lastx
+                        if b_y < 1: b_y = lasty
                         pyautogui.moveTo(b_x, b_y+fish_area[1], 0.3)
                         pyautogui.keyDown("shiftleft")
                         pyautogui.mouseDown(button='right')
