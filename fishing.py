@@ -17,6 +17,7 @@ lastx = 0
 lasty = 0
 is_block = False
 is_stop = False
+new_cast_time = 0
 
 
 while True:
@@ -39,6 +40,7 @@ while True:
                 lasty = 0
                 pyautogui.press('1')
                 print("Fish on !")
+                new_cast_time = time.time()
                 is_block = True
                 time.sleep(2)
             else:
@@ -83,6 +85,11 @@ while True:
 
                 #cv2.imshow("fish_mask", mask)
                 #cv2.imshow("fish_frame", frame)
+                
+                if time.time() - new_cast_time > 40:
+                    print("New cast if something wrong")
+                    is_block = False
+                
         else:
             print("Pause")
     if cv2.waitKey(1) == 27:
