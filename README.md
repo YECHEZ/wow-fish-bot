@@ -3,7 +3,7 @@
 ### ADDED tray-icon with information
 
 - No hook sounds, work with all resolution.
-- Using opencv2, PIL, pyautogui, numpy, keyboard, win32gui, qt
+- Using packages: Pillow, PyAutoGUI, PyQt5, numpy, opencv-python, pywin32 (Project Interpreter - PyCharm)
 - code = 92 lines with spaces.
 
 > This is tested application before Windows app release
@@ -11,7 +11,7 @@
 How to:
 1. Equip fishing pole
 2. Move skill 'Fishing' to slot with bind '1'
-3. Hide UI (ALT + Z)
+3. Hide World of Warcraft UI (ALT + Z)
 4. Full camera zoom
 5. Run bot
 
