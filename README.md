@@ -1,8 +1,12 @@
-# wow-fish-bot
+# wow-fish-bot | DEV-BRANCH !
 ## WoW Vanilla fish bot. Python, simple, for me. World of Warcraft 1.12.1
+### ADDED tray-icon with information
+
 - No hook sounds, work with all resolution.
-- Using opencv2, PIL, pyautogui, numpy, keyboard, win32gui
+- Using opencv2, PIL, pyautogui, numpy, keyboard, win32gui, qt
 - code = 92 lines with spaces.
+
+> This is tested application before Windows app release
 
 How to:
 1. Equip fishing pole
@@ -11,7 +15,6 @@ How to:
 4. Full camera zoom
 5. Run bot
 
-- Stop/Start key = ']' / Default as Start
 - Work only if found active window 'World of Warcraft'
 - How it work: 
 > With cv2 the bot tracks the splashes on water and clicks into the point via LeftShift + RMB
@@ -23,3 +26,4 @@ or 1920x1080 maximized
 - Works pretty normal (80%)
 - Gif - https://imgur.com/a/IRftPyX
 ![alt text](wow-fish-bot-area.png)
+![alt text](wow-fish-bot-app.png)
