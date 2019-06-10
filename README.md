@@ -1,6 +1,8 @@
 # wow-fish-bot | APP RELEASE !
 ## World of Warcraft Fish BOT. Safety. Python. Simple. For me.
-### ADDED tray-icon with information
+
+![GitHub All Releases](https://img.shields.io/github/downloads/YECHEZ/wow-fish-bot/total.svg?color=dark-green)
+![GitHub stars](https://img.shields.io/github/stars/YECHEZ/wow-fish-bot.svg?style=social)
 
 - No hook sounds, work with all resolution.
 
