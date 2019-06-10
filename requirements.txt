@@ -1,0 +1,13 @@
+infi.systray==0.1.11
+numpy==1.16.4
+opencv-python==4.1.0.25
+Pillow==6.0.0
+PyAutoGUI==0.9.44
+PyGetWindow==0.0.5
+PyMsgBox==1.0.6
+pypiwin32==223
+PyRect==0.1.4
+PyScreeze==0.1.21
+PyTweening==1.0.3
+pywin32==224
+win10toast==0.9
