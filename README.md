@@ -1,19 +1,15 @@
-# wow-fish-bot | DEV-BRANCH !
-## WoW Vanilla fish bot. Python, simple, for me. World of Warcraft 1.12.1
+# wow-fish-bot | APP RELEASE !
+## World of Warcraft Fish BOT. Safety. Python. Simple. For me.
 ### ADDED tray-icon with information
 
 - No hook sounds, work with all resolution.
-- Using packages: Pillow, PyAutoGUI, PyQt5, numpy, opencv-python, pywin32 (Project Interpreter - PyCharm)
-- code = 92 lines with spaces.
-
-> This is tested application before Windows app release
 
 How to:
 1. Equip fishing pole
 2. Move skill 'Fishing' to slot with bind '1'
 3. Hide World of Warcraft UI (ALT + Z)
 4. Full camera zoom
-5. Run bot
+5. Unpause bot via Right click on icon
 
 - Work only if found active window 'World of Warcraft'
 - How it work: 
@@ -23,7 +19,7 @@ How to:
 or 1920x1080 maximized
 
 - Tested on areas: Orgrimmar, near WC dungeon and Ratchet
-- Works pretty normal (80%)
+- Works good (80%)
 - Gif - https://imgur.com/a/IRftPyX
 ![alt text](wow-fish-bot-area.png)
 ![alt text](wow-fish-bot-app.png)
