@@ -1,9 +1,9 @@
-# wow-fish-bot | APP RELEASE !
+![alt text](wow-fish-bot.png) [Last Release](https://github.com/YECHEZ/wow-fish-bot/releases/latest)
+# wow-fish-bot | APP RELEASE
 ## World of Warcraft Fish BOT. Safety. Python. Simple. For me.
 
-[Last Release](https://github.com/YECHEZ/wow-fish-bot/releases/latest)
 
-- No hook sounds, work with all resolution.
+✔ No hook sounds, work with all resolution.
 
 How to:
 1. Equip fishing pole
@@ -24,3 +24,4 @@ or 1920x1080 maximized
 - Gif - https://imgur.com/a/IRftPyX
 ![alt text](wow-fish-bot-area.png)
 ![alt text](wow-fish-bot-app.png)
+![alt text](wow-fish-bot.png)
