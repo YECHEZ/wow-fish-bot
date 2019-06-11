@@ -1,7 +1,7 @@
 ![alt text](wow-fish-bot.png) [Last Release](https://github.com/YECHEZ/wow-fish-bot/releases/latest)
 # wow-fish-bot | APP RELEASE
-## World of Warcraft Fish BOT. Safety. Python. Simple. For me.
-
+## World of Warcraft Fish BOT. Python. Simple. For me.
+> Using third-party programs to automate any facet of the game, exploiting bugs, or engaging in any activity that grants an unfair advantage is considered cheating.
 
 ✔ No hook sounds, work with all resolution.
 
@@ -14,7 +14,7 @@ How to:
 
 - Work only if found active window 'World of Warcraft'
 - How it work: 
-> With cv2 the bot tracks the splashes on water and clicks into the point via LeftShift + RMB
+- - With cv2 the bot tracks the splashes on water and clicks into the point via LeftShift + RMB
 * Bot has false positives because simple
 - Best performance on 800x600 Windowed Mode, no maximized
 or 1920x1080 maximized
