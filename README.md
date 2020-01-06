@@ -1,5 +1,5 @@
 ![alt text](wow-fish-bot.png) [Last Release](https://github.com/YECHEZ/wow-fish-bot/releases/latest) <br />
-🔄 UPDATED VERSION BY [github.com/matianchi](https://github.com/matianchi/wow-fish-bot)
+🔄 TRY UPDATED VERSION BY [github.com/matianchi](https://github.com/matianchi/wow-fish-bot)
 # wow-fish-bot | APP RELEASE
 ## World of Warcraft Fish BOT. Python. Simple. For me.
 > Using third-party programs to automate any facet of the game, exploiting bugs, or engaging in any activity that grants an unfair advantage is considered cheating.
