@@ -1,4 +1,4 @@
-![alt text](wow-fish-bot.png) [Last Release](https://github.com/YECHEZ/wow-fish-bot/releases/latest)
+![alt text](wow-fish-bot.png) [Last Release](https://github.com/YECHEZ/wow-fish-bot/releases/latest) <br />
 🔄 UPDATED VERSION BY [github.com/matianchi](https://github.com/matianchi/wow-fish-bot)
 # wow-fish-bot | APP RELEASE
 ## World of Warcraft Fish BOT. Python. Simple. For me.
