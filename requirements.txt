@@ -9,5 +9,5 @@ pypiwin32==223
 PyRect==0.1.4
 PyScreeze==0.1.21
 PyTweening==1.0.3
-pywin32==224
+pywin32==301
 win10toast==0.9
