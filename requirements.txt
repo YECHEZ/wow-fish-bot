@@ -1,5 +1,5 @@
 infi.systray==0.1.11
-numpy==1.16.4
+numpy==1.22.0
 opencv-python>=4.2.0.32
 pillow>=6.2.0
 PyAutoGUI==0.9.44
